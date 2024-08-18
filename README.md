@@ -1,4 +1,3 @@
-Visualization
 Let's embark on a journey of data exploration with the World Bank Group Analysis! 🌐📈
 
 Tools Utilized
@@ -15,8 +14,7 @@ Task Overview
 📊 Generate a histogram for gender distribution.
 🛠️ Setup and Usage
 🚀 Clone the repository:
-https://github.com/Debolina10Chatterjee/PRODIGY_DS_01.git
-▶️ Open the google colab notebook provided in the repository.
+(https://github.com/Debolina-Chatterjee/eda_worldpopulation.git)▶️ Open the google colab notebook provided in the repository.
 👀 Run cells to execute Python code.
 📊 View visualizations for insights into global age and gender distributions.
 Inferences
@@ -40,5 +38,5 @@ Contributions are encouraged! Whether you want to enhance the analysis or add ne
 Questions or suggestions? Reach out to:
 
 DEBOLINA CHATTERJEE
-Email: debolina1011chatterjee@gmail.com (mailto:debolina1011chatterjee@gmail.com)
+Email: debolina1011chatterjee@gmail.com 
 Explore the world's data, analyze global trends, and uncover the stories within the World Bank Group dataset! 🌍📊
